@@ -18,8 +18,8 @@
   "dependencies": {
     "@tanstack/react-router": "^1.77.8",
     "@tanstack/start": "^1.77.8",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
+    "react": "^19.0.0-rc-603e6108-20241029",
+    "react-dom": "^19.0.0-rc-603e6108-20241029",
     "vinxi": "^0.4.3"
   }
 }
